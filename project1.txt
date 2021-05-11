@@ -6,6 +6,5 @@ project 1 line5
 project 1 line6
 project 1 line7
 project 1 line8
-project 1 line8.1 - from commit to rever 2
 project 1 line9
 project 1 line10
