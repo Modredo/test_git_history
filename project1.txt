@@ -2,7 +2,6 @@ project 1 line1
 project 1 line2
 project 1 line3
 project 1 line4
-project 1 line4.1 - from commit to revert 1
 project 1 line5
 project 1 line6
 project 1 line7
